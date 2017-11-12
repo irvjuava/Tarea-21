@@ -1,7 +1,7 @@
 #ifndef LETRAS_H
 #define LETRAS_H
 void fni(){
-	printf("IIII\n  I  \n   I\n   I  \nIIII\n");
+	printf("IIII\n  I \n  I \n  I \nIIII\n");
 }
 void fnr(){
 	printf("RRRR\nR  R\nRRRR\nR RR\nR  R\n");
