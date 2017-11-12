@@ -7,11 +7,11 @@ void fnr(){
 	printf("RRRR\nR  R\nRRRR\nR RR\nR  R\n");
 }
 void fnv(){
-	printf("V  V\nV  V\nV  V\n VV \n V \n");
+	printf("V  V\nV  V\nV  V\n VV \n V  \n");
 }
 void fnn(){
 	printf("N  N\nNN N\nN NN\nN NN\nN  N\n");}
 void fng(){
 	printf("GGGG\nG   \nG GG\nG  G\nGGGG\n")
-}}
+}
 #endif
